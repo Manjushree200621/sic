@@ -1,2 +1,1 @@
-hello 
-qwer
+i came from clone repo
